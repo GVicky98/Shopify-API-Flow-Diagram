@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T10:42:03.967Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.16" etag="rGy6KPKFWM003CljHM0u" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T12:46:45.067Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RYF0yZqTxTXC1PMw5S9O" version="22.1.16" type="github">
   <diagram name="Page-1" id="WKjqWD-Dhlkz0RAdVfJx">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ulxrI9LNIix_zr5MdTc--4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="240" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="240" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--6" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;SHOPIFY&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;u&gt;ERPNext&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulxrI9LNIix_zr5MdTc--8" target="ulxrI9LNIix_zr5MdTc--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--8" value="API credentails&lt;br&gt;(API key, API password)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulxrI9LNIix_zr5MdTc--9" target="ulxrI9LNIix_zr5MdTc--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--9" value="&lt;b&gt;&lt;u&gt;Settings page&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Stored API credentails&lt;br&gt;(API key, API password)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ulxrI9LNIix_zr5MdTc--10" target="ulxrI9LNIix_zr5MdTc--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--10" value="Trigger fetch orders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;GET Request(fetch orders)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ulxrI9LNIix_zr5MdTc--14" target="ulxrI9LNIix_zr5MdTc--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--14" value="Shopify orders page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulxrI9LNIix_zr5MdTc--17" target="ulxrI9LNIix_zr5MdTc--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--17" value="Order JSON" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Response - Order JSON&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ulxrI9LNIix_zr5MdTc--21" value="Sales Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
