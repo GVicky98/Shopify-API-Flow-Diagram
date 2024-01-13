@@ -11,3 +11,7 @@ Shopify partial orders - https://app.diagrams.net/#HGVicky98%2FShopify-API-Flow-
 Shopify cancel orders - https://app.diagrams.net/#HGVicky98%2FShopify-API-Flow-Diagram%2Fmain%2Fshopify_cancel_orders.drawio
 
 ![image](https://github.com/GVicky98/Shopify-API-Flow-Diagram/assets/101815612/e1fc9552-9368-4acf-8a0a-f65801f950b2)
+
+Shopify Inventory Update - https://app.diagrams.net/#HGVicky98%2FShopify-API-Flow-Diagram%2Fmain%2Fshopify_inventory_update.drawio
+
+![image](https://github.com/GVicky98/Shopify-API-Flow-Diagram/assets/101815612/b9a08b0f-9503-4495-adef-54b6c2bf75dc)
