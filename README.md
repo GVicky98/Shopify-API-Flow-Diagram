@@ -14,6 +14,7 @@ Shopify cancel orders - https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000f
 ![image](https://github.com/GVicky98/Shopify-API-Flow-Diagram/assets/101815612/e5d94463-f19c-47fa-b269-cad177bdda66)
 
 
-Shopify Inventory Update - https://app.diagrams.net/#HGVicky98%2FShopify-API-Flow-Diagram%2Fmain%2Fshopify_inventory_update.drawio
+Shopify Inventory Update - https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=shopify_inventory_update.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGVicky98%2FShopify-API-Flow-Diagram%2Fmain%2Fshopify_inventory_update.drawio
 
-![image](https://github.com/GVicky98/Shopify-API-Flow-Diagram/assets/101815612/b9a08b0f-9503-4495-adef-54b6c2bf75dc)
+![image](https://github.com/GVicky98/Shopify-API-Flow-Diagram/assets/101815612/ab3a4b5a-8d40-422c-93dd-248259294142)
+
