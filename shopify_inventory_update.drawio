@@ -1,60 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T04:40:42.373Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ChezvsmZvzM73TuWFpT7" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T07:48:22.583Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="h5KHht2eq0kltcA7pT49" version="23.1.5" type="github">
   <diagram name="Page-1" id="yhnGaxcN0KZS2rJZzO3y">
     <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="240" height="400" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="200" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="40" width="240" height="400" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="480" y="40" width="200" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-3" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;SHOPIFY&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="10" width="90" height="30" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-3" value="&lt;span&gt;&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;SHOPIFY&lt;/font&gt;&lt;/u&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="175" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;u&gt;ERPNext&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="635" y="10" width="90" height="30" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span&gt;&lt;u&gt;ERPNext&lt;br&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="535" y="10" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GhPoPRfR0sROsIhoIp8V-6" target="GhPoPRfR0sROsIhoIp8V-8">
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="GhPoPRfR0sROsIhoIp8V-6" target="GhPoPRfR0sROsIhoIp8V-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-6" value="API credentails&lt;br&gt;(API key, API password)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="60" width="120" height="80" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-6" value="API credentails&lt;br&gt;(API key, API password)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="160" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GhPoPRfR0sROsIhoIp8V-8" target="GhPoPRfR0sROsIhoIp8V-10">
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="GhPoPRfR0sROsIhoIp8V-8" target="GhPoPRfR0sROsIhoIp8V-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-8" value="&lt;b&gt;&lt;u&gt;Settings page&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Stored API credentails&lt;br&gt;(API key, API password)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="60" width="120" height="80" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-8" value="&lt;span&gt;&lt;u&gt;Settings page&lt;/u&gt;&lt;/span&gt;&lt;br&gt;Stored API credentails&lt;br&gt;(API key, API password)" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="520" y="70" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GhPoPRfR0sROsIhoIp8V-10" target="GhPoPRfR0sROsIhoIp8V-13">
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="GhPoPRfR0sROsIhoIp8V-10" target="GhPoPRfR0sROsIhoIp8V-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-10" value="For TableTopics and UPE Orders, when DN is Submitted or Cancelled" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="190" width="120" height="80" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-10" value="Update on DN Submit and Cancel" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="520" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;POST Request(Inventory Adjustments)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="210" height="40" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;POST request&lt;br&gt;(Inventory Adjustments)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="330" y="180" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GhPoPRfR0sROsIhoIp8V-13" target="GhPoPRfR0sROsIhoIp8V-15">
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="GhPoPRfR0sROsIhoIp8V-13" target="GhPoPRfR0sROsIhoIp8V-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="350" />
+              <mxPoint x="220" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-13" value="Inventory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="120" height="80" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-13" value="Inventory" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="160" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-15" value="Update in DN items table." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="310" width="120" height="80" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-15" value="Update in DN" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="520" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Response - Inventory updated confirmation&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="320" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="GhPoPRfR0sROsIhoIp8V-18" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Shopify Inventory&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="103.75" y="160" width="112.5" height="30" as="geometry" />
+        <mxCell id="GhPoPRfR0sROsIhoIp8V-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Response &lt;br&gt;&lt;div style=&quot;&quot;&gt;(Updated confirmation)&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="302.5" y="290" width="185" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
