@@ -5,9 +5,10 @@ Shopify fetch orders - https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff
 ![image](https://github.com/GVicky98/Shopify-API-Flow-Diagram/assets/101815612/65e38ddb-413e-4d6c-a901-0e5c7cb30c92)
 
 
-Shopify partial orders - https://app.diagrams.net/#HGVicky98%2FShopify-API-Flow-Diagram%2Fmain%2Fshopify_partial_orders.drawio
+Shopify partial orders - https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=shopify_partial_orders.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGVicky98%2FShopify-API-Flow-Diagram%2Fmain%2Fshopify_partial_orders.drawio
 
-![image](https://github.com/GVicky98/Shopify-API-Flow-Diagram/assets/101815612/d4d708af-26ff-470c-8f1c-264582376435)
+![image](https://github.com/GVicky98/Shopify-API-Flow-Diagram/assets/101815612/259219f2-5ca4-42d9-8239-9083415f64c6)
+
 
 Shopify cancel orders - https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=shopify_cancel_orders.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FGVicky98%2FShopify-API-Flow-Diagram%2Fmain%2Fshopify_cancel_orders.drawio
 
